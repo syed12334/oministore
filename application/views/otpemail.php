@@ -1,0 +1,1 @@
+<b>Dear Customer</b>,<br /><br /><p>Your one time password (OTP) to Sign in to https://www.swarnagowri.com is <b><?= $otp;?></b></p><p>Should you require any assistance, please call us on  7026 027027 or write to us - sales@swarnagowri.com.</p><br /><p>Happy shopping !Warm Regards,</p> <p>Team Swarnagowri</p>

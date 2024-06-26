@@ -1,0 +1,196 @@
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1672336"}]	Monday 25th 2023f September 2023 02:38:08 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+8791.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7090099999&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1672404"}]	Monday 25th 2023f September 2023 02:47:53 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+4626.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1674148"}]	Monday 25th 2023f September 2023 03:56:21 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+4748.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1674577"}]	Monday 25th 2023f September 2023 04:36:51 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3253.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1674754"}]	Monday 25th 2023f September 2023 04:56:53 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+8466.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1675125"}]	Monday 25th 2023f September 2023 05:12:21 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7499.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1675126"}]	Monday 25th 2023f September 2023 05:12:32 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+2788.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1675132"}]	Monday 25th 2023f September 2023 05:13:04 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+6133.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1675141"}]	Monday 25th 2023f September 2023 05:13:58 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3241.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1675151"}]	Monday 25th 2023f September 2023 05:14:32 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+6498.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1675167"}]	Monday 25th 2023f September 2023 05:16:56 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3975.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1678787"}]	Tuesday 26th 2023f September 2023 10:58:05 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9062.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1680133"}]	Tuesday 26th 2023f September 2023 02:21:08 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7554.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1680495"}]	Tuesday 26th 2023f September 2023 03:05:24 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+8146.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1680938"}]	Tuesday 26th 2023f September 2023 03:53:27 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9499.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1681394"}]	Tuesday 26th 2023f September 2023 04:37:25 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+6908.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1736777"}]	Wednesday 27th 2023f September 2023 09:52:51 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7988.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1744379"}]	Wednesday 27th 2023f September 2023 11:25:26 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3364.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1744949"}]	Wednesday 27th 2023f September 2023 12:20:37 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7976.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1745635"}]	Wednesday 27th 2023f September 2023 01:50:36 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7905.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1746080"}]	Wednesday 27th 2023f September 2023 02:43:40 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1767.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1747974"}]	Wednesday 27th 2023f September 2023 04:48:39 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+2230.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1749753"}]	Wednesday 27th 2023f September 2023 10:08:28 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+4908.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1751844"}]	Thursday 28th 2023f September 2023 12:12:38 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+8189.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1752103"}]	Thursday 28th 2023f September 2023 12:37:15 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9797.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1752123"}]	Thursday 28th 2023f September 2023 12:40:05 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7884.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1752141"}]	Thursday 28th 2023f September 2023 12:42:01 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+8572.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1752265"}]	Thursday 28th 2023f September 2023 01:04:16 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1481.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1772097"}]	Friday 29th 2023f September 2023 12:43:57 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+6251.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1773853"}]	Friday 29th 2023f September 2023 02:47:53 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+2984.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1773879"}]	Friday 29th 2023f September 2023 02:51:04 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1696.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1773968"}]	Friday 29th 2023f September 2023 03:03:20 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+5806.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9066557591&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1778683"}]	Saturday 30th 2023f September 2023 10:40:07 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+5216.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1778851"}]	Saturday 30th 2023f September 2023 10:51:51 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+4041.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9980549810&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1778921"}]	Saturday 30th 2023f September 2023 11:03:09 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9153.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1873551"}]	Tuesday 03rd 2023f October 2023 10:25:07 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+5010.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1874634"}]	Tuesday 03rd 2023f October 2023 11:34:54 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1874.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1881883"}]	Tuesday 03rd 2023f October 2023 04:00:34 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9786.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9980549810&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1882749"}]	Tuesday 03rd 2023f October 2023 05:11:30 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3511.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1882836"}]	Tuesday 03rd 2023f October 2023 05:19:30 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9452.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1882933"}]	Tuesday 03rd 2023f October 2023 05:27:15 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3219.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9980549810&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1882947"}]	Tuesday 03rd 2023f October 2023 05:28:59 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+6894.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9980549810&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1882957"}]	Tuesday 03rd 2023f October 2023 05:30:14 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9601.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9980549810&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1882963"}]	Tuesday 03rd 2023f October 2023 05:30:35 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+8898.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9980549810&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1883032"}]	Tuesday 03rd 2023f October 2023 05:36:19 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+5143.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9482027180&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1886749"}]	Wednesday 04th 2023f October 2023 09:35:29 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7892.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1886934"}]	Wednesday 04th 2023f October 2023 09:52:10 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9236.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9482027180&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1886954"}]	Wednesday 04th 2023f October 2023 09:55:42 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+4604.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9632593497&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1887067"}]	Wednesday 04th 2023f October 2023 10:03:09 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+4998.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1887971"}]	Wednesday 04th 2023f October 2023 10:56:42 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3179.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9980549810&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1900036"}]	Wednesday 04th 2023f October 2023 12:37:05 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9261.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=8105739193&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1900094"}]	Wednesday 04th 2023f October 2023 12:44:36 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1569.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1903150"}]	Wednesday 04th 2023f October 2023 04:31:09 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7715.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1909171"}]	Thursday 05th 2023f October 2023 11:35:12 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3879.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1909172"}]	Thursday 05th 2023f October 2023 11:35:14 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1530.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1909268"}]	Thursday 05th 2023f October 2023 11:44:27 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+6659.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=8105739193&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1910471"}]	Thursday 05th 2023f October 2023 12:43:32 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3398.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1911198"}]	Thursday 05th 2023f October 2023 01:14:07 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+8346.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1962803"}]	Thursday 05th 2023f October 2023 04:16:13 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7360.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1963095"}]	Thursday 05th 2023f October 2023 04:25:13 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+2683.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"1963624"}]	Thursday 05th 2023f October 2023 04:33:50 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+4528.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9980549810&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2005568"}]	Thursday 05th 2023f October 2023 05:38:01 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9123.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2010043"}]	Friday 06th 2023f October 2023 09:40:51 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1985.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2010439"}]	Friday 06th 2023f October 2023 10:01:18 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+2200.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2010619"}]	Friday 06th 2023f October 2023 10:24:31 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1848.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9902189402&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2010961"}]	Friday 06th 2023f October 2023 10:37:46 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3539.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2037362"}]	Saturday 07th 2023f October 2023 11:28:30 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+6823.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2038343"}]	Saturday 07th 2023f October 2023 12:24:17 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+6989.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2152603"}]	Monday 09th 2023f October 2023 12:48:56 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9974.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9980549810&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2190852"}]	Tuesday 10th 2023f October 2023 10:49:24 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+5625.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2198559"}]	Tuesday 10th 2023f October 2023 03:39:49 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+6908.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2198698"}]	Tuesday 10th 2023f October 2023 03:48:39 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7167.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2203834"}]	Wednesday 11th 2023f October 2023 10:01:12 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+5626.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2204297"}]	Wednesday 11th 2023f October 2023 10:38:33 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+8359.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=8105739193&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2204424"}]	Wednesday 11th 2023f October 2023 10:50:49 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+4970.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=8105739193&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2204431"}]	Wednesday 11th 2023f October 2023 10:52:00 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1781.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=8105739193&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2233729"}]	Wednesday 11th 2023f October 2023 05:23:55 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1599.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2233968"}]	Wednesday 11th 2023f October 2023 05:43:37 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+2360.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2531684"}]	Monday 16th 2023f October 2023 12:52:04 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+4556.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2751336"}]	Friday 27th 2023f October 2023 02:22:33 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+8256.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2751473"}]	Friday 27th 2023f October 2023 02:41:59 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3049.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2776839"}]	Monday 30th 2023f October 2023 11:42:47 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+8592.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2793298"}]	Tuesday 31st 2023f October 2023 10:00:22 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1849.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2793876"}]	Tuesday 31st 2023f October 2023 11:21:17 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9765.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2796557"}]	Tuesday 31st 2023f October 2023 04:16:57 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7640.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2796746"}]	Tuesday 31st 2023f October 2023 04:41:07 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7566.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2797002"}]	Tuesday 31st 2023f October 2023 05:00:35 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+7435.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2819459"}]	Thursday 02nd 2023f November 2023 10:59:46 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+4787.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=8105739193&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2819740"}]	Thursday 02nd 2023f November 2023 11:19:29 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+5154.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"2820647"}]	Thursday 02nd 2023f November 2023 12:23:40 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+3002.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"3895438"}]	Wednesday 15th 2023f November 2023 03:36:30 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9356.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"3907962"}]	Wednesday 15th 2023f November 2023 06:59:16 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1367.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"3908194"}]	Wednesday 15th 2023f November 2023 08:07:03 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+2012.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"4296880"}]	Friday 17th 2023f November 2023 02:14:04 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+1502.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=7619289151&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"4355430"}]	Thursday 23rd 2023f November 2023 10:45:40 AM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+9371.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"4492266"}]	Monday 04th 2023f December 2023 10:47:08 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+6389.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9986571768&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"5697535"}]	Wednesday 06th 2024f March 2024 04:22:19 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+6613.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be
+[{"responseCode":"Message SuccessFully Submitted"},{"msgid":"5697603"}]	Wednesday 06th 2024f March 2024 04:28:14 PM
+http://bulksms.abhinavinfo.com/sendSMS?username=SWGWRI&message=Dear+User%2C+Your+OTP+for+www.swarnagowri.com+login+verification+is+4560.+Regards%2C+Team+SWARNAGOWRI.&sendername=SWGWRI&smstype=TRANS&numbers=9663075316&apikey=96bc050f-2043-49ad-901f-4cadc5fa59be

@@ -1,0 +1,2 @@
+<center><img src="https://www.swarnagowri.com/assets/images/logo.png" style="width:250px;margin-bottom: 20px" /></center>
+<b>Dear Customer</b>,<br /><br /></p><p>Should you require any assistance, please call us on  7026 027027 or write to us - homeneedscart@gmail.com</p><br /><p>Happy shopping !Warm Regards,</p> <p>Team Swarnagowri</p>
